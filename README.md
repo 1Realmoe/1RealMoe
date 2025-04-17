@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **new technologies and programming languages**
 
-- 💬 Ask me about **react,javascript,java,kotlin,HTML,CSS**
+- 💬 Ask me about **Next.js,react,javascript,java,HTML,CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
