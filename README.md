@@ -1,49 +1,52 @@
 ![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 
 <h1 align="center">Hi 👋, I'm Moe</h1>
-<h3 align="center">Frontend Developer • Computer Science Student • Sweden 🇸🇪</h3>
+<h3 align="center">Full-Stack Developer • Sweden 🇸🇪</h3>
 
 <p align="center">
-I build modern, scalable, and user-focused web applications using <b>React</b> & <b>Next.js</b>.
+I design and build scalable, modern web applications from <b>frontend to backend</b>.
 <br/>
-Currently growing my skills while studying Computer Science.
+Computer Science graduate with 4+ years of hands-on development experience.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎯 Frontend developer focused on **clean UI & performance**
-- 🌱 Currently learning **advanced TypeScript, Next.js & backend fundamentals**
-- 💬 Ask me about **React, Next.js, JavaScript, HTML, CSS**
+- 💼 **Full-Stack Developer** with strong frontend & backend foundations
+- 🎓 **BSc in Computer Science** (graduated, not a student)
+- 🧠 Strong understanding of **software fundamentals, data flow & system design**
+- 🌱 Always improving performance, architecture & code quality
 - 📍 Based in **Sweden**
 
 ---
 
 ### 🛠 Tech Stack
 
-<p align="left">
+#### Frontend
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </p>
 
----
+#### Backend & Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+</p>
 
-### ⭐ Featured Projects
-> (Pin your best repositories on your profile)
+#### Tools & Workflow
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40"/>
+</p>
 
-- 🛒 **Next.js Shopping Cart** – Redux Toolkit, modern architecture
-- ⚛️ **React UI Projects** – Reusable components & clean layouts
-- 🌐 **Web Apps** – API integration & state management
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -60,5 +63,5 @@ Currently growing my skills while studying Computer Science.
 </p>
 
 <p align="center">
-✨ Always open to collaboration and learning opportunities
+🚀 Open to full-stack roles, collaborations & interesting projects
 </p>
