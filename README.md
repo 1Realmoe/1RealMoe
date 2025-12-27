@@ -44,20 +44,21 @@ Computer Science graduate with 4+ years of hands-on development experience.
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 </p>
 
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1realmoe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1realmoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1Realmoe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Realmoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1realmoe&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=1Realmoe&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
 </div>
 
 ---
