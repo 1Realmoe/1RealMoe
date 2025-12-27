@@ -49,17 +49,12 @@ Computer Science graduate with 4+ years of hands-on development experience.
 
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Realmoe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Realmoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
 
-<br/>
+![Stats](https://github-readme-stats.vercel.app/api?username=1Realmoe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=1Realmoe&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Realmoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+![Streak](https://streak-stats.demolab.com?user=1Realmoe&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
