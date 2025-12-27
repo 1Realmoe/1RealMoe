@@ -12,8 +12,8 @@ Computer Science graduate with 4+ years of hands-on development experience.
 ---
 
 ### 👨‍💻 About Me
-- 💼 **Full-Stack Developer** with strong frontend & backend foundations
-- 🎓 **BSc in Computer Science** (graduated, not a student)
+- 💼 **Full-Stack Developer** with a passion for robust system design.
+- 🎓 **BSc in Computer Science** (Graduated).
 - 🧠 Strong understanding of **software fundamentals, data flow & system design**
 - 🌱 Always improving performance, architecture & code quality
 - 📍 Based in **Sweden**
@@ -49,9 +49,16 @@ Computer Science graduate with 4+ years of hands-on development experience.
 
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1realmoe&show_icons=true&theme=transparent" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1realmoe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1realmoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1realmoe&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
+</div>
 
 ---
 
@@ -63,5 +70,6 @@ Computer Science graduate with 4+ years of hands-on development experience.
 </p>
 
 <p align="center">
-🚀 Open to full-stack roles, collaborations & interesting projects
+  <b>Let's build something amazing together!</b><br/>
+  🚀 Open to full-stack roles and collaborations.
 </p>
