@@ -50,11 +50,9 @@ Computer Science graduate with 4+ years of hands-on development experience.
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1realmoe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&v=1" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1realmoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&v=1" height="150" alt="languages graph" />
-</div>
+- 🔭 Working on **Full Stack Web Applications**
+- 📚 Continuously learning **System Architecture**
+- ⚡ Focusing on **Clean Code & Performance**
 
 ---
 
