@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Solo%20founder%20%E2%80%A2%20AI%20SaaS%20builder%20%E2%80%A2%20Next.js%20%2B%20TypeScript%20%E2%80%A2%20creator%20of%20ElevateAI%E2%80%A2%20Sweden%20%F0%9F%87%B8%F0%9F%87%AA;Founder%20%26%20builder%20%E2%80%94%20I%20ship%20AI-first%20SaaS%20from%20idea%20%E2%86%92%20product%20%E2%86%92%20paying%20users." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Solo%20founder%20%E2%80%A2%20AI%20SaaS%20builder%20%E2%80%A2%20creator%20of%20ElevateAI%20and%204%20other%20products%20%E2%80%A2%20Sweden;Founder%20%26%20builder%20%E2%80%94%20I%20ship%20AI-first%20SaaS%20from%20idea%20%E2%86%92%20product%20%E2%86%92%20paying%20users." alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-Solo founder &amp; Fullstack engineer. I ship AI-first SaaS from idea → product → paying users. I care about product, SEO growth, and fast experiments.
+Solo founder &amp; full-stack engineer. I ship AI-first SaaS from idea → product → paying users. I care about product, SEO growth, and fast experiments.
 
 🔭 &nbsp;I'm currently working on **ElevateAI — AI job-search work center (product growth)**  
 🌱 &nbsp;I'm currently learning **Scaling frontend infra &amp; AI integrations (Next.js + serverless patterns)**  
@@ -84,4 +84,3 @@ Solo founder &amp; Fullstack engineer. I ship AI-first SaaS from idea → produc
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/1Realmoe">1Realmoe</a></i></p>
-
