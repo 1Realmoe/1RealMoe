@@ -18,7 +18,7 @@ Solo founder &amp; full-stack engineer. I ship AI-first SaaS from idea → produ
 🤔 &nbsp;I'm looking for help with **Beta users, and growth channels (SEO / LinkedIn outreach / partnerships)**  
 💬 &nbsp;Ask me about **Building &amp; shipping real products to the market, SEO for product growth**  
 😄 &nbsp;Pronouns: **he/him**  
-⚡ &nbsp;Fun fact: **I got 20 paying customers for a product in one month using only SEO.**
+⚡ &nbsp;Fun fact: **I got 30 paying customers for a product in one month using only SEO.**
 
 ### 🛠️ Tech Stack
 
