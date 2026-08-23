@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Solo founder &amp; frontend engineer. I ship AI-first SaaS from idea → product → paying users. I care about product, SEO growth, and fast experiments.
+Solo founder &amp; Fullstack engineer. I ship AI-first SaaS from idea → product → paying users. I care about product, SEO growth, and fast experiments.
 
 🔭 &nbsp;I'm currently working on **ElevateAI — AI job-search work center (product growth)**  
 🌱 &nbsp;I'm currently learning **Scaling frontend infra &amp; AI integrations (Next.js + serverless patterns)**  
